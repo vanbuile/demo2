@@ -1,2 +1,6 @@
 Xin chao toi la dev1
+<<<<<<< HEAD
 Toi them dong nay tu dev1 branch main
+=======
+Xin chao toi la dev2 dang su dung branch master
+>>>>>>> master
