@@ -1,1 +1,2 @@
 Xin chao toi la dev1
+Xin chao toi la dev2 dang su dung branch master
